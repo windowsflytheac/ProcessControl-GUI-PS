@@ -27,5 +27,7 @@ You are fully responsible for any consequences.
 
 1. Open Powershell as Administrator
 2. Go your downloads folder using cd
-3. Once your in your downloads folder Run ./Process-Killer-TaskDialog.ps1
+3. Once your in your downloads folder Run ./Process-Killer-TaskDialog.ps1 in the command line in powershell
+4. Its now with Administrator
+
   
