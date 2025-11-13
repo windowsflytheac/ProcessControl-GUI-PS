@@ -27,5 +27,5 @@ You are fully responsible for any consequences.
 
 1. Open Powershell as Administrator
 2. Go to your downloads folder
-3. run ./Process-Killer-TaskDialog.ps1
+3. Run ./Process-Killer-TaskDialog.ps1
   
