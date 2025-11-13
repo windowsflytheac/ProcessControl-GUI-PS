@@ -21,4 +21,11 @@ You are fully responsible for any consequences.
 - Big warning label displaying your **device name**.  
 - Confirmation dialog before killing processes.  
 - Success/Failed modal dialog after each operation.  
-- Logging of all actions to:  
+---
+
+**Running the Program in Administrator Guide**
+
+1. Open Powershell as Administrator
+2. Go to your downloads folder
+3. run ./Process-Killer-TaskDialog.ps1
+  
